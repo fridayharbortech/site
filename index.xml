@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Friday Harbor Tech</title>
+    <link>http://fridayharbor.tech/</link>
+    <description>Recent content on Friday Harbor Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://fridayharbor.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://fridayharbor.tech/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fridayharbor.tech/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://fridayharbor.tech/careers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fridayharbor.tech/careers/</guid>
+      <description>This is a page.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://fridayharbor.tech/dev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fridayharbor.tech/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://fridayharbor.tech/it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fridayharbor.tech/it/</guid>
+      <description>This is a page.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://fridayharbor.tech/repair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fridayharbor.tech/repair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://fridayharbor.tech/sass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://fridayharbor.tech/sass/</guid>
+      <description>This is a page.</description>
+    </item>
+    
+  </channel>
+</rss>
